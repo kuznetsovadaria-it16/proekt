@@ -1,0 +1,9 @@
+void create_right_map();
+void create_game_map();
+bool check_map();
+void up_move();
+void down_move();
+void right_move();
+void left_move();
+void get_direction();
+void screen();
